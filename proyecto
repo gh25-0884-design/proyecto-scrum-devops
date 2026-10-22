@@ -1,0 +1,9 @@
+proyecto-scrum-devops/
+│
+├── calculadora.py
+├── test_calculadora.py
+├── README.md
+│
+└── .github/
+    └── workflows/
+        └── tests.yml
